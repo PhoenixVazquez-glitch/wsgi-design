@@ -1,6 +1,6 @@
 {
   "name": "cronus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The official TypeScript library for the Cronus API",
   "author": "Cronus <>",
   "types": "dist/index.d.ts",
